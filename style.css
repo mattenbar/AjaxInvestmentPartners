@@ -1,7 +1,41 @@
-h3 {
+h4 {
+  padding-top: 15px;
   text-align: center;
 }
 
-.About_Us{
-  margin: 5%;
+#about {
+  margin-left: 5%;
+  font-size: 2vw;
+}
+
+#capabilities{
+  background-color: rgb(64, 151, 257);
+  color: white;
+  font-size: 2vw;
+}
+
+#capabilities p{
+  margin-left: 5%;
+}
+
+#capabilities ul{
+  margin-left: 5%;
+}
+
+.blueLine{
+  border-bottom: 2px solid rgb(64, 151, 257);
+  display: block;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+.blackLine{
+  border-bottom: 2px black;
+  display: block;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+b{
+  color: rgb(64, 151, 257);
 }
